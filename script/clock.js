@@ -7,7 +7,10 @@
         cY = canvas.height / 2,
         endX, endY,
         radius = 150,
-        date, hours, minutes, seconds,
+        date,
+        hours, 
+        minutes, 
+        seconds,
         clockFace = 'default'; // ค่าเริ่มต้นของหน้าปัด
 
     initTime();
